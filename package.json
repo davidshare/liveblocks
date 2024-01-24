@@ -7,7 +7,8 @@
     "schema-lang/*",
     "e2e/next-sandbox",
     "examples/nextjs-whiteboard-advanced",
-    "examples/nextjs-yjs-blocknote-advanced"
+    "examples/nextjs-yjs-blocknote-advanced",
+    "examples/nextjs-live-cursors-chat"
   ],
   "scripts": {
     "build": "turbo run build",
